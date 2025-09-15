@@ -27,7 +27,12 @@ Address
  ### Steps 4:Enter your credit/debit card details.
 
 AWS makes a temporary small charge (refundable) to verify
- ### Steps 5: now take up the screenshot of the home page and service page and upload it in the output column.
+ ### Steps 5: enter the aws and explore the services provided by aws.
+
+ services provided by AWS:
+
+Amazon Web Services (AWS) offers a wide range of cloud services, but three of its most popular are Amazon EC2 (Elastic Compute Cloud), Amazon S3 (Simple Storage Service), and Amazon RDS (Relational Database Service). EC2 provides scalable virtual servers in the cloud, allowing users to run applications with flexible computing capacity and pay only for what they use. S3 is a highly durable and secure object storage service designed to store and retrieve any amount of data, making it ideal for backups, media hosting, and big data analytics. RDS simplifies the process of setting up, operating, and scaling relational databases such as MySQL, PostgreSQL, or Oracle, by automating tasks like backups, patching, and replication. Together, these services form the backbone for building scalable, reliable, and cost-efficient applications on the cloud
+
 ## COMMANDS
 Include the commands used in the Experiment.
 
@@ -38,6 +43,7 @@ Include the commands used in the Experiment.
  [cc aws account screenshot.pdf](https://github.com/user-attachments/files/22330151/cc.aws.account.screenshot.pdf)
  Here.
 ## RESULT
+The creation of an aws account and set up of Rootuser and IAM user and also services provided by aws are explored.
  
 
   

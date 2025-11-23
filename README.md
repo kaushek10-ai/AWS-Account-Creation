@@ -42,7 +42,7 @@ Include the commands used in the Experiment.
  
  [cc aws account screenshot.pdf](https://github.com/user-attachments/files/22330151/cc.aws.account.screenshot.pdf)
  Here.
-## RESULT
+## RESULT:
 The creation of an aws account and set up of Rootuser and IAM user and also services provided by aws are explored.
  
 
